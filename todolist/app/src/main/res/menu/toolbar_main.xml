@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itSort"
+        android:title="Sort"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itRemove_completed"
+        android:title="Remove Completed"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itUncheck_completed"
+        android:title="Uncheck Completed"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itCheck_completed_all"
+        android:title="Completed All"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itSetting"
+        android:title="Setting"
+        app:showAsAction="never" />
+</menu>
